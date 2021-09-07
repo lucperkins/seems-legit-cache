@@ -7,4 +7,5 @@ setup(name='SeemsLegitCache',
       author='Luc Perkins',
       author_email='lucperkins@gmail.com',
       license='MIT',
-      packages=['seemslegitcache'])
+      packages=['seemslegitcache'],
+      include_package_data=True)

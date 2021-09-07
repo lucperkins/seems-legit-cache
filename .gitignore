@@ -4,3 +4,8 @@ bin/
 include/
 lib/
 __pycache__/
+
+# Distribution
+build/
+dist/
+*.egg-info/
