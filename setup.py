@@ -1,4 +1,4 @@
-from setuptools import setup, find_packages
+from setuptools import setup
 
 setup(name='SeemsLegitCache',
       version='0.1.0',
@@ -7,4 +7,4 @@ setup(name='SeemsLegitCache',
       author='Luc Perkins',
       author_email='lucperkins@gmail.com',
       license='MIT',
-      packages=find_packages())
+      packages=['seemslegitcache'])
